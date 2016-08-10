@@ -1,0 +1,5 @@
+<map id="Detector" name="Detector">
+<area shape="rect" id="node2" href="$classCascadeHaarDetector.html" title="CascadeHaarDetector" alt="" coords="5,80,157,107"/>
+<area shape="rect" id="node3" href="$classDaimlerPeopleDetector.html" title="DaimlerPeopleDetector" alt="" coords="181,80,339,107"/>
+<area shape="rect" id="node4" href="$classHOGPeopleDetector.html" title="HOGPeopleDetector" alt="" coords="363,80,505,107"/>
+</map>

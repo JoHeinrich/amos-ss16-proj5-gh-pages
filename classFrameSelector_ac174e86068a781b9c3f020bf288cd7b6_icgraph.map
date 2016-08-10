@@ -1,0 +1,5 @@
+<map id="FrameSelector::ReadImage" name="FrameSelector::ReadImage">
+<area shape="rect" id="node2" href="$classController.html#a19cb830e2532b42b588b3dcc26ced8fa" title="Controller::PlayAsVideo" alt="" coords="245,5,406,32"/>
+<area shape="rect" id="node3" href="$classController.html#ae6a344da6f15085a06114ee0514a8a24" title="Controller::AnalyseVideo" alt="" coords="242,56,409,83"/>
+<area shape="rect" id="node4" href="$classController.html#afd6375744f4f31dd254d1e5f1316ff4b" title="Controller::SaveAllImages\lAsJPEG" alt="" coords="238,107,413,149"/>
+</map>

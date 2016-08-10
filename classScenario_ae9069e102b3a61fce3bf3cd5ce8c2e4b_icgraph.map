@@ -1,0 +1,4 @@
+<map id="Scenario::Detect" name="Scenario::Detect">
+<area shape="rect" id="node2" href="$classAnalyser.html#ac90049a2162cf2a88cd92de7c5760d96" title="Analyser::Analyse" alt="" coords="173,5,301,32"/>
+<area shape="rect" id="node3" href="$classController.html#ae6a344da6f15085a06114ee0514a8a24" title="Controller::AnalyseVideo" alt="" coords="350,5,517,32"/>
+</map>

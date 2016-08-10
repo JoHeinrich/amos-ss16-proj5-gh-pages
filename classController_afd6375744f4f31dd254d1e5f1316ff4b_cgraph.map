@@ -1,0 +1,6 @@
+<map id="Controller::SaveAllImagesAsJPEG" name="Controller::SaveAllImagesAsJPEG">
+<area shape="rect" id="node2" href="$classFrameSelectorFactory.html#a8886c3d5d1575372892ab11af0e7d30d" title="FrameSelectorFactory\l::GetFrameSelector" alt="" coords="258,5,409,46"/>
+<area shape="rect" id="node3" href="$classFrameSelector.html#ab3a070c88275a75cb6aaf1001f8b2a64" title="FrameSelector::GetImageCount" alt="" coords="230,71,437,97"/>
+<area shape="rect" id="node4" href="$classFrameSelector.html#ac174e86068a781b9c3f020bf288cd7b6" title="FrameSelector::ReadImage" alt="" coords="242,121,425,148"/>
+<area shape="rect" id="node5" href="$classImage.html#aeb608aeba65746cadab9233a5f555a1d" title="Image::GetRGBImage" alt="" coords="257,172,409,199"/>
+</map>

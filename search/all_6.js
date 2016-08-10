@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['getboxsize',['GetBoxSize',['../classElement.html#ad336322888d50e9fd23ea05cadb5be46',1,'Element']]],
+  ['getcenterx',['GetCenterX',['../classElement.html#a9a7850a1ae37ffb9dbe9c546b2291460',1,'Element']]],
+  ['getcentery',['GetCenterY',['../classElement.html#a249a543f14f4b117aebd5c001a8e9d0d',1,'Element']]],
+  ['getelementsoftype',['GetElementsOfType',['../classFrameDetectionData.html#a8734e8f4de684515d68a3dfa7c703b81',1,'FrameDetectionData']]],
+  ['getframeselector',['GetFrameSelector',['../classFrameSelectorFactory.html#a8886c3d5d1575372892ab11af0e7d30d',1,'FrameSelectorFactory']]],
+  ['getimagecount',['GetImageCount',['../classFrameSelector.html#ab3a070c88275a75cb6aaf1001f8b2a64',1,'FrameSelector::GetImageCount()'],['../classHDF5FrameSelector.html#a440ad3d303d5419836dd4dd618d89349',1,'HDF5FrameSelector::GetImageCount()'],['../classMP4FrameSelector.html#a92514c95353471bacaf9523ac7fc44d9',1,'MP4FrameSelector::GetImageCount()']]],
+  ['getimageheight',['GetImageHeight',['../classBayerImage.html#a494f5e4be09a2d2f8e4c78a536d3ce85',1,'BayerImage::GetImageHeight()'],['../classImage.html#ab5e37380d072a8068b9c199d5c23e58f',1,'Image::GetImageHeight()'],['../classMP4Image.html#aba09ec73d5690f1d8b515527b010b141',1,'MP4Image::GetImageHeight()'],['../classProtobufImageWrapper.html#a7c01e9c1075bc30378996282e17d10a6',1,'ProtobufImageWrapper::GetImageHeight()']]],
+  ['getimagepayload',['GetImagePayload',['../classBayerImage.html#a77bccbc5c1e04e2d9618d7a3bd5ab42d',1,'BayerImage::GetImagePayload()'],['../classProtobufImageWrapper.html#a444790ea96785a92ab17a8be689f9872',1,'ProtobufImageWrapper::GetImagePayload()']]],
+  ['getimagewidth',['GetImageWidth',['../classBayerImage.html#af917fa2041f656b0a85140ca8c8fd846',1,'BayerImage::GetImageWidth()'],['../classImage.html#a7ea6fcf26832356767d7d9766f11075a',1,'Image::GetImageWidth()'],['../classMP4Image.html#afc8792cc91bc0ee7821e1f954931d069',1,'MP4Image::GetImageWidth()'],['../classProtobufImageWrapper.html#aabff426d3c841dad57cbd0f16f5382cd',1,'ProtobufImageWrapper::GetImageWidth()']]],
+  ['getmaxx',['GetMaxX',['../classElement.html#aea907c7c3bbcbe8752ced3032b04cb70',1,'Element']]],
+  ['getmaxy',['GetMaxY',['../classElement.html#adf8fb018755ead3042185f00106af4f8',1,'Element']]],
+  ['getminx',['GetMinX',['../classElement.html#ae9ae03dbc2a53e9dce866f8f90f52fbb',1,'Element']]],
+  ['getminy',['GetMinY',['../classElement.html#a3d06fffe381dbaba2bfe4b5b6d99611a',1,'Element']]],
+  ['getnumberofprotobuffiles',['GetNumberOfProtobufFiles',['../classHDFReader.html#a679c61f47dbc9077c1628aae6688f40d',1,'HDFReader']]],
+  ['getposition',['GetPosition',['../classElement.html#a7f88fb876554262930c712a85eda5439',1,'Element']]],
+  ['getprotobuffilesdescription',['GetProtobufFilesDescription',['../classHDFReader.html#a6c51f5f6eb59f48df50d3dc883000b1c',1,'HDFReader']]],
+  ['getrgbimage',['GetRGBImage',['../classBayerImage.html#a228035e294dd92d6284bfa3ca3e30ff4',1,'BayerImage::GetRGBImage()'],['../classImage.html#aeb608aeba65746cadab9233a5f555a1d',1,'Image::GetRGBImage()'],['../classMP4Image.html#af922f515f012db82027346ab4b6761c5',1,'MP4Image::GetRGBImage()']]],
+  ['getscenarioinformation',['GetScenarioInformation',['../classHumansInFrontOfBusScenario.html#abb98a309abccdd784081e461f3adc9a3',1,'HumansInFrontOfBusScenario::GetScenarioInformation()'],['../classScenario.html#afa02a8b5e60b509b4f6283a814a4f72a',1,'Scenario::GetScenarioInformation()']]]
+];

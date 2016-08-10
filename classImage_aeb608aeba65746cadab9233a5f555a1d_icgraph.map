@@ -1,0 +1,7 @@
+<map id="Image::GetRGBImage" name="Image::GetRGBImage">
+<area shape="rect" id="node2" href="$classDetection.html#a941a728fc31bb699c0ffdfb37363c786" title="Detection::ProcessFrame" alt="" coords="245,5,416,32"/>
+<area shape="rect" id="node4" href="$classController.html#afd6375744f4f31dd254d1e5f1316ff4b" title="Controller::SaveAllImages\lAsJPEG" alt="" coords="243,57,418,98"/>
+<area shape="rect" id="node5" href="$classImageView.html#af5124b9bdaa6733746002b9bb2d3db63" title="ImageView::ShowImage" alt="" coords="249,123,413,149"/>
+<area shape="rect" id="node6" href="$classImageView.html#a6ae33c0595f67335b7b30a868ac73bee" title="ImageView::ShowImageAndDetections" alt="" coords="205,173,456,200"/>
+<area shape="rect" id="node3" href="$classController.html#ae6a344da6f15085a06114ee0514a8a24" title="Controller::AnalyseVideo" alt="" coords="505,5,671,32"/>
+</map>

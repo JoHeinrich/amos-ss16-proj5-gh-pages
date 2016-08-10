@@ -1,0 +1,17 @@
+<map id="Controller::AnalyseVideo" name="Controller::AnalyseVideo">
+<area shape="rect" id="node2" href="$classFrameSelectorFactory.html#a8886c3d5d1575372892ab11af0e7d30d" title="FrameSelectorFactory\l::GetFrameSelector" alt="" coords="255,5,406,46"/>
+<area shape="rect" id="node3" href="$classFrameSelector.html#ab3a070c88275a75cb6aaf1001f8b2a64" title="FrameSelector::GetImageCount" alt="" coords="227,71,434,97"/>
+<area shape="rect" id="node4" href="$classFrameSelector.html#ac174e86068a781b9c3f020bf288cd7b6" title="FrameSelector::ReadImage" alt="" coords="239,121,422,148"/>
+<area shape="rect" id="node5" href="$classDetection.html#a941a728fc31bb699c0ffdfb37363c786" title="Detection::ProcessFrame" alt="" coords="245,172,416,199"/>
+<area shape="rect" id="node10" href="$classAnalyser.html#ac90049a2162cf2a88cd92de7c5760d96" title="Analyser::Analyse" alt="" coords="267,223,395,249"/>
+<area shape="rect" id="node12" href="$classScenario.html#afa02a8b5e60b509b4f6283a814a4f72a" title="Scenario::GetScenarioInformation" alt="" coords="221,273,440,300"/>
+<area shape="rect" id="node13" href="$classProtoAgent.html#a878e6d846284f0962e17eaabe83c444c" title="ProtoAgent::startClient" alt="" coords="253,343,408,369"/>
+<area shape="rect" id="node6" href="$classImage.html#aeb608aeba65746cadab9233a5f555a1d" title="Image::GetRGBImage" alt="" coords="497,41,649,68"/>
+<area shape="rect" id="node7" href="$classImage.html#a7ea6fcf26832356767d7d9766f11075a" title="Image::GetImageWidth" alt="" coords="495,92,652,119"/>
+<area shape="rect" id="node8" href="$classImage.html#ab5e37380d072a8068b9c199d5c23e58f" title="Image::GetImageHeight" alt="" coords="493,143,654,169"/>
+<area shape="rect" id="node9" href="$classFrameDetectionData.html#af25990eaa77d370ce5055cce0fe04418" title="FrameDetectionData\l::AddElementsOfType" alt="" coords="498,194,649,235"/>
+<area shape="rect" id="node11" href="$classScenario.html#ae9069e102b3a61fce3bf3cd5ce8c2e4b" title="Scenario::Detect" alt="" coords="513,260,633,287"/>
+<area shape="rect" id="node14" href="$classProtoAgent.html#aeb3c6ccc08697c246065f44dd322f853" title="ProtoAgent::sendWarning" alt="" coords="488,311,659,337"/>
+<area shape="rect" id="node15" href="$classProtoAgent.html#a886b439af0438baa12205492233bd7e7" title="ProtoAgent::protobuf_io" alt="" coords="494,361,653,388"/>
+<area shape="rect" id="node16" href="$classProtoAgent.html#ab18e30a358aa537ac403a596018924be" title="ProtoAgent::print_on_exit" alt="" coords="489,412,658,439"/>
+</map>

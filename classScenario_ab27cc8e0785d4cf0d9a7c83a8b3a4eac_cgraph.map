@@ -1,0 +1,6 @@
+<map id="Scenario::DoOverlap" name="Scenario::DoOverlap">
+<area shape="rect" id="node2" href="$classElement.html#ae9ae03dbc2a53e9dce866f8f90f52fbb" title="Element::GetMinX" alt="" coords="199,5,329,32"/>
+<area shape="rect" id="node3" href="$classElement.html#aea907c7c3bbcbe8752ced3032b04cb70" title="Element::GetMaxX" alt="" coords="197,56,331,83"/>
+<area shape="rect" id="node4" href="$classElement.html#a3d06fffe381dbaba2bfe4b5b6d99611a" title="Element::GetMinY" alt="" coords="199,107,329,133"/>
+<area shape="rect" id="node5" href="$classElement.html#adf8fb018755ead3042185f00106af4f8" title="Element::GetMaxY" alt="" coords="197,157,331,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Element::GetMaxY" name="Element::GetMaxY">
+<area shape="rect" id="node2" href="$classScenario.html#ab27cc8e0785d4cf0d9a7c83a8b3a4eac" title="Scenario::DoOverlap" alt="" coords="187,12,330,39"/>
+<area shape="rect" id="node4" href="$classScenario.html#aca3e2bf6176bb8bfdf1a94a6198505b7" title="Scenario::DoContain" alt="" coords="187,63,330,89"/>
+<area shape="rect" id="node3" href="$classHumansInFrontOfBusScenario.html#a3eb02befb731be6f9ef9c7e54fae6560" title="HumansInFrontOfBusScenario\l::Detect" alt="" coords="379,5,579,46"/>
+</map>

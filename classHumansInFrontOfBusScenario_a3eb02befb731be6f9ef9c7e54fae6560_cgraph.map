@@ -1,0 +1,8 @@
+<map id="HumansInFrontOfBusScenario::Detect" name="HumansInFrontOfBusScenario::Detect">
+<area shape="rect" id="node2" href="$classFrameDetectionData.html#a8734e8f4de684515d68a3dfa7c703b81" title="FrameDetectionData\l::GetElementsOfType" alt="" coords="253,15,403,57"/>
+<area shape="rect" id="node3" href="$classScenario.html#ab27cc8e0785d4cf0d9a7c83a8b3a4eac" title="Scenario::DoOverlap" alt="" coords="257,81,399,108"/>
+<area shape="rect" id="node4" href="$classElement.html#ae9ae03dbc2a53e9dce866f8f90f52fbb" title="Element::GetMinX" alt="" coords="453,5,582,32"/>
+<area shape="rect" id="node5" href="$classElement.html#aea907c7c3bbcbe8752ced3032b04cb70" title="Element::GetMaxX" alt="" coords="451,56,584,83"/>
+<area shape="rect" id="node6" href="$classElement.html#a3d06fffe381dbaba2bfe4b5b6d99611a" title="Element::GetMinY" alt="" coords="453,107,582,133"/>
+<area shape="rect" id="node7" href="$classElement.html#adf8fb018755ead3042185f00106af4f8" title="Element::GetMaxY" alt="" coords="451,157,584,184"/>
+</map>

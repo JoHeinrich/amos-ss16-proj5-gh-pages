@@ -1,0 +1,6 @@
+<map id="Detection::ProcessFrame" name="Detection::ProcessFrame">
+<area shape="rect" id="node2" href="$classImage.html#aeb608aeba65746cadab9233a5f555a1d" title="Image::GetRGBImage" alt="" coords="229,5,381,32"/>
+<area shape="rect" id="node3" href="$classImage.html#a7ea6fcf26832356767d7d9766f11075a" title="Image::GetImageWidth" alt="" coords="227,56,384,83"/>
+<area shape="rect" id="node4" href="$classImage.html#ab5e37380d072a8068b9c199d5c23e58f" title="Image::GetImageHeight" alt="" coords="225,107,386,133"/>
+<area shape="rect" id="node5" href="$classFrameDetectionData.html#af25990eaa77d370ce5055cce0fe04418" title="FrameDetectionData\l::AddElementsOfType" alt="" coords="230,158,381,199"/>
+</map>

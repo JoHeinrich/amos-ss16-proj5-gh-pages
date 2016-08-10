@@ -1,0 +1,6 @@
+<map id="Controller::PlayAsVideo" name="Controller::PlayAsVideo">
+<area shape="rect" id="node2" href="$classFrameSelectorFactory.html#a8886c3d5d1575372892ab11af0e7d30d" title="FrameSelectorFactory\l::GetFrameSelector" alt="" coords="245,5,395,46"/>
+<area shape="rect" id="node3" href="$classFrameSelector.html#ab3a070c88275a75cb6aaf1001f8b2a64" title="FrameSelector::GetImageCount" alt="" coords="217,71,423,97"/>
+<area shape="rect" id="node4" href="$classFrameSelector.html#ac174e86068a781b9c3f020bf288cd7b6" title="FrameSelector::ReadImage" alt="" coords="229,121,411,148"/>
+<area shape="rect" id="node5" href="$classImageView.html#a7b25e6cb2474f07696aa24a1d5eb6fe8" title="ImageView::ShowImage" alt="" coords="238,172,402,199"/>
+</map>

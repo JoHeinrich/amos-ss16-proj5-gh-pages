@@ -1,0 +1,5 @@
+<map id="BayerImage::GetRGBImage" name="BayerImage::GetRGBImage">
+<area shape="rect" id="node2" href="$classBayerImage.html#af917fa2041f656b0a85140ca8c8fd846" title="BayerImage::GetImageWidth" alt="" coords="247,5,438,32"/>
+<area shape="rect" id="node3" href="$classBayerImage.html#a494f5e4be09a2d2f8e4c78a536d3ce85" title="BayerImage::GetImageHeight" alt="" coords="245,56,440,83"/>
+<area shape="rect" id="node4" href="$classBayerImage.html#a77bccbc5c1e04e2d9618d7a3bd5ab42d" title="BayerImage::GetImagePayload" alt="" coords="241,107,445,133"/>
+</map>

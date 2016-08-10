@@ -1,0 +1,5 @@
+<map id="ProtoAgent::startClient" name="ProtoAgent::startClient">
+<area shape="rect" id="node2" href="$classProtoAgent.html#aeb3c6ccc08697c246065f44dd322f853" title="ProtoAgent::sendWarning" alt="" coords="208,5,379,32"/>
+<area shape="rect" id="node3" href="$classProtoAgent.html#a886b439af0438baa12205492233bd7e7" title="ProtoAgent::protobuf_io" alt="" coords="214,56,373,83"/>
+<area shape="rect" id="node4" href="$classProtoAgent.html#ab18e30a358aa537ac403a596018924be" title="ProtoAgent::print_on_exit" alt="" coords="209,107,378,133"/>
+</map>
